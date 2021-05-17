@@ -1,0 +1,14 @@
+INSERT INTO public.facilities (id, name, cust_cost, guest_cost, purchase_cost, maintenance_cost) VALUES (2, 'Badminton Court', '$0.00', '$155.00', '$4,000.00', '$50.00');
+INSERT INTO public.facilities (id, name, cust_cost, guest_cost, purchase_cost, maintenance_cost) VALUES (3, 'Table Tennis', '$0.00', '$5.00', '$320.00', '$10.00');
+INSERT INTO public.facilities (id, name, cust_cost, guest_cost, purchase_cost, maintenance_cost) VALUES (4, 'Massage Room 1', '$35.00', '$80.00', '$4,000.00', '$3,000.00');
+INSERT INTO public.facilities (id, name, cust_cost, guest_cost, purchase_cost, maintenance_cost) VALUES (5, 'Massage Room 2', '$35.00', '$80.00', '$4,000.00', '$3,000.00');
+INSERT INTO public.facilities (id, name, cust_cost, guest_cost, purchase_cost, maintenance_cost) VALUES (6, 'Squash Court', '$35.00', '$175.00', '$5,000.00', '$80.00');
+INSERT INTO public.facilities (id, name, cust_cost, guest_cost, purchase_cost, maintenance_cost) VALUES (7, 'Snooker Table', '$0.00', '$5.00', '$450.00', '$15.00');
+INSERT INTO public.facilities (id, name, cust_cost, guest_cost, purchase_cost, maintenance_cost) VALUES (8, 'Pool Table', '$0.00', '$5.00', '$400.00', '$15.00');
+INSERT INTO public.facilities (id, name, cust_cost, guest_cost, purchase_cost, maintenance_cost) VALUES (9, 'Spa', '$20.00', '$30.00', '$100,000.00', '$8,000.00');
+INSERT INTO public.facilities (id, name, cust_cost, guest_cost, purchase_cost, maintenance_cost) VALUES (10, 'Spa 2', '$20.00', '$30.00', '$100,000.00', '$8,000.00');
+INSERT INTO public.facilities (id, name, cust_cost, guest_cost, purchase_cost, maintenance_cost) VALUES (11, 'Squash Court 2', '$3.50', '$17.50', '$5,000.00', '$80.00');
+INSERT INTO public.facilities (id, name, cust_cost, guest_cost, purchase_cost, maintenance_cost) VALUES (12, 'Squash Court 2', '$3.50', '$17.50', '$5,000.00', '$80.00');
+INSERT INTO public.facilities (id, name, cust_cost, guest_cost, purchase_cost, maintenance_cost) VALUES (13, 'Squash Court 2', '$3.50', '$17.50', '$5,000.00', '$80.00');
+INSERT INTO public.facilities (id, name, cust_cost, guest_cost, purchase_cost, maintenance_cost) VALUES (0, 'Tennis Court 1', '$6.00', '$30.00', '$10,000.00', '$200.00');
+INSERT INTO public.facilities (id, name, cust_cost, guest_cost, purchase_cost, maintenance_cost) VALUES (1, 'Tennis Court 2', '$6.60', '$33.00', '$10,000.00', '$200.00');
